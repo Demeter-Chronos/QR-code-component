@@ -19,8 +19,8 @@ A simple one pages QR code page.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Demeter-Chronos/QR-code-component.git)
-- Live Site URL: [Add live site URL here](https://demeter-chronos.github.io/QR-code-component/
+- Solution URL: [https://github.com/Demeter-Chronos/QR-code-component.git]
+- Live Site URL: [https://demeter-chronos.github.io/QR-code-component/]
 
 ## My process
 I used HTML to do the skeleton of the website and styled it with css.
